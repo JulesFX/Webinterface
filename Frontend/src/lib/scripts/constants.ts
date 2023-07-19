@@ -1,4 +1,4 @@
-export const BASE_PATH = "https://api.ree6.de"
+export const BASE_PATH = "https://master--delicate-manatee-eeb447.netlify.app"
 
 export function get(path: string) {
 
